@@ -1,2 +1,0 @@
-Level 2 filetext
-An outline (algorithm) for what would have been the first piece of software was written by Ada Lovelace in the 19th century, for the planned Analytical Engine

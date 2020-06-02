@@ -12,7 +12,7 @@ Deployment frequency is one per week
 
 
 ##How to contribute
-
+Code the project
 
 ##Copyright
 git training
